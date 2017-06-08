@@ -1,15 +1,15 @@
 # Aide officielle OpenRefine sur les fonctions GREL
 
 ## Variables
-cell	La cellule en cours. Elle a deux champs : 'value' et 'recon'.
+**cell**	La cellule en cours. Elle a deux champs : 'value' et 'recon'.
 
-value	La valeur de la cellule en cours. C’est un alias de 'cell.value'.
+**value**	La valeur de la cellule en cours. C’est un alias de 'cell.value'.
 
-row	La ligne en cours. Elle a cinq champs : 'flagged', 'starred', 'index', 'cells' et 'record'.
+**row**	La ligne en cours. Elle a cinq champs : 'flagged', 'starred', 'index', 'cells' et 'record'.
 
-cells	Les cellules de la ligne en cours. C’est un alias de 'row.cells'. Une cellule spécifique peut être retrouvée avec 'cells.<nom de la colonne>' lorsque <nom de la colonne > est un mot simple et avec 'cells.["<nom de la colonne>"]' dans les autres cas.
+**cells**	Les cellules de la ligne en cours. C’est un alias de 'row.cells'. Une cellule spécifique peut être retrouvée avec 'cells.<nom de la colonne>' lorsque <nom de la colonne > est un mot simple et avec 'cells.["<nom de la colonne>"]' dans les autres cas.
 
-rowIndex	L’index de la ligne en cours. C’est un alias de 'row.index'.
+**rowIndex**	L’index de la ligne en cours. C’est un alias de 'row.index'.
 
 ## Fonctions
 * abs	(number d)
