@@ -1,0 +1,11 @@
+code_personne,date,ville,adresse,animal_prefere,habillement,loisirs,logement
+P001,01/02/2017,NICE,1 av. St Barthélemy,chien,100,25,"0,8"
+P002,01/03/2017,CAEN,,chiens,,,
+P003,15/02/2017, Lyon,3 rue Paul Bert,chiens et chats,10.90,"70,6",700
+P004,15-02-2017,Nice,50 avenue Saint Barthélemy,"chat, cheval, poisson",400,90,600
+P005,15-04-2017,LE HAVRE,15 av. Jean Jaurès,CHAT,,,
+P005,12-02-2017,Havre (Le),15 av. Jean Jaurès,chevaux,,,
+P005,11/01/2017,,,lapin,,,
+P006,19/02 (2017),Lyon,1 rue Dunoir,,,,
+P002,16/03 (2017),Caen,5 rue Basse,,50.50,"35,6","0,7"
+P005,08:01:2017,Le Havre,15 av. Jean Jaurès,"Lapin,chien",200,40,800
